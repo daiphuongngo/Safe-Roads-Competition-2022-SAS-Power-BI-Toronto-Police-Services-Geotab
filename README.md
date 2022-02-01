@@ -16,6 +16,8 @@ For my group, we have chosen the Toronto case and we are currently working on th
 
 ## Dataset:
 
+(disclosed within the Case Study and the SAS Institute's registered Virtual Learning Environment only)
+
 https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html
 
 7 datasets for the Toronto cases retrieved from Toronto Police Service, Geotab and City of Toronto. 
