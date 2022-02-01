@@ -1,12 +1,8 @@
 # Safe-Roads-Competition-2022-SAS-Power-BI-Toronto-Police-Services-Geotab
 
-# Toronto-Canada-Safe-Roads-2022-Competition
-
 ## Overview
 
 "AS Institute, in partnership with Geotab Inc. and the Toronto Police Services, is hosting the fourth annual Safe Roads Competition, a virtual analytics competition for university and college students in Canada and Mexico.
-
-Please join us for a virtual kick-off the morning of Friday, January 28, 2022. All information about the data, deadlines, project submissions, and prizes will be announced at the kick-off. Participants will be required to sign an NDA.
 
 Finals projects must be submitted by 5:00 p.m. ET on Friday, March 4, 2022. Final presentations will be assessed by a panel of industry judges on Friday, March 11, 2022."
 
