@@ -6,7 +6,7 @@
 
 Finals projects must be submitted by 5:00 p.m. ET on Friday, March 4, 2022. Final presentations will be assessed by a panel of industry judges on Friday, March 11, 2022."
 
-For my group, we have chosen the Toronto case and we are currently working on that in `SAS` as the main tool. For me, I am also using `Power BI` to visualize dashboards which are inspired by the [Toronto Police Service's Annual Statistical Report Interactive Dashboards](https://data.torontopolice.on.ca/pages/asr-analytics).
+For my group of 2 people, we have chosen the Toronto case and we are currently working on that in `SAS` as the main tool. For me, I am also using `Power BI` to visualize dashboards which are inspired by the [Toronto Police Service's Annual Statistical Report Interactive Dashboards](https://data.torontopolice.on.ca/pages/asr-analytics).
 
 ## Tools:
 
@@ -20,7 +20,7 @@ For my group, we have chosen the Toronto case and we are currently working on th
 
 https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html
 
-7 datasets for the Toronto cases retrieved from Toronto Police Service, Geotab and City of Toronto. 
+7 datasets for the Toronto cases retrieved from Toronto Police Service, Geotab and City of Toronto. We will narrown down to 2-3 datasets for further analysis.
 
 ## Data Exploration
 
