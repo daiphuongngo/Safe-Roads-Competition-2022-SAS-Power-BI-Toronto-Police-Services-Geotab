@@ -6,7 +6,7 @@
 
 Finals projects must be submitted by 5:00 p.m. ET on Friday, March 4, 2022. Final presentations will be assessed by a panel of industry judges on Friday, March 11, 2022."
 
-For my group of 2 people, we have chosen the Toronto case and we are currently working on that in `SAS` as the main tool. For me, I am also using `Power BI` to visualize dashboards which are inspired by the [Toronto Police Service's Annual Statistical Report Interactive Dashboards](https://data.torontopolice.on.ca/pages/asr-analytics).
+For my group of 3 people, we have chosen the Toronto case and we are currently working on that in `SAS` as the main tool. For me, I am also using `Power BI` to visualize dashboards which are inspired by the [Toronto Police Service's Annual Statistical Report Interactive Dashboards](https://data.torontopolice.on.ca/pages/asr-analytics).
 
 ## Tools:
 
