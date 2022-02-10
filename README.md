@@ -20,7 +20,7 @@ For my group of 3 people, we have chosen the Toronto case and we are currently w
 
 https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html
 
-7 datasets for the Toronto cases retrieved from Toronto Police Service, Geotab and City of Toronto. We will narrown down to 2-3 datasets for further analysis.
+7 datasets for the Toronto cases retrieved from Toronto Police Service, Geotab and City of Toronto. We will narrow down to 3 datasets (2 from Toronto Police Services and 1 from geotab) for further analysis.
 
 ## Data Exploration
 
