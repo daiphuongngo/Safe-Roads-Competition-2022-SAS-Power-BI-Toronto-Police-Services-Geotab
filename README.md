@@ -2,7 +2,7 @@
 
 ## Overview
 
-"AS Institute, in partnership with Geotab Inc. and the Toronto Police Services, is hosting the fourth annual Safe Roads Competition, a virtual analytics competition for university and college students in Canada and Mexico.
+"SAS Institute, in partnership with Geotab Inc. and the Toronto Police Services, is hosting the fourth annual Safe Roads Competition, a virtual analytics competition for university and college students in Canada and Mexico.
 
 Finals projects must be submitted by 5:00 p.m. ET on Friday, March 4, 2022. Final presentations will be assessed by a panel of industry judges on Friday, March 11, 2022."
 
