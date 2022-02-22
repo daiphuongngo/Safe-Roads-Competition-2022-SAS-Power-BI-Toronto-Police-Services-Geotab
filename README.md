@@ -10,13 +10,13 @@ For my group, we have chosen the Toronto case and we are currently working on th
 
 ## Tools:
 
-- SAS
+- SAS: explore data & generate main reports
 
-- Power BI
+- Power BI: visualize descriptive analysis
 
-- SQL 
+- SQL: query to deliver results on both SAS & Azure 
 
-- Azure
+- Azure: store datasets, conduct descriptive analysis in SQL queries, examine diagnostics analysis and predictive analysis
 
 ## Dataset:
 
