@@ -6,7 +6,7 @@
 
 Finals projects must be submitted by 5:00 p.m. ET on Friday, March 4, 2022. Final presentations will be assessed by a panel of industry judges on Friday, March 11, 2022."
 
-For my group, we have chosen the Toronto case and we are currently working on that in `SAS` as the main tool. For me, I am also coding `SQL` queries in `Azure` and using `Power BI` to visualize dashboards which are inspired by the [Toronto Police Service's Annual Statistical Report Interactive Dashboards](https://data.torontopolice.on.ca/pages/asr-analytics).
+For my project, I have chosen the Toronto case and also been using `Python`, `SAS`, `Power BI` to conduct analysis and visualize dashboards which are inspired by the [Toronto Police Service's Annual Statistical Report Interactive Dashboards](https://data.torontopolice.on.ca/pages/asr-analytics).
 
 ## Tools:
 
@@ -16,7 +16,7 @@ For my group, we have chosen the Toronto case and we are currently working on th
 
 - SQL: query to deliver results on both SAS & Azure 
 
-- Azure: store datasets, conduct descriptive analysis in SQL queries, examine diagnostics analysis and predictive analysis
+- Azure: store datasets, conduct descriptive analysis in SQL queries, examine diagnostics analysis and predictive analysis 
 
 ## Dataset:
 
