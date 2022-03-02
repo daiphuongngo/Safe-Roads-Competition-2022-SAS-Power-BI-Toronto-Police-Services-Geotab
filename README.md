@@ -24,7 +24,7 @@ For my project, I have chosen the Toronto case and also been using `Python`, `SA
 
 https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html
 
-7 datasets for the Toronto cases retrieved from Toronto Police Service, Geotab and City of Toronto. We will narrow down to 3 datasets (2 from Toronto Police Services and 1 from geotab) for further analysis.
+7 datasets for the Toronto cases retrieved from Toronto Police Service, Geotab and City of Toronto. In the Phase 1, I am using the Toronto Police Services Killed or Seriously Injured Dataset. In the Phase 2, I will narrow down to 3 datasets (2 from Toronto Police Services and 1 from geotab) for further analysis.
 
 ## Data Exploration
 
