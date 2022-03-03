@@ -12,11 +12,11 @@ For my project, I have chosen the Toronto case and also been using `Python`, `SA
 
 ## Tools:
 
-- SAS: explore data & generate main reports
+- SAS: explore data & generate main reports in A/B Testing
 
-- Power BI: visualize descriptive analysis
+- Power BI: visualize descriptive & diagnostic analysis
 
-- SQL: query to deliver results on both SAS & Azure 
+- SQL: query to deliver results on both SAS & AzureML (for descriptive analysis)
 
 - Azure: store datasets, conduct descriptive analysis in SQL queries, examine diagnostics analysis and predictive analysis 
 
