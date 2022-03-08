@@ -18,7 +18,7 @@ For my project, I have chosen the Toronto case and also been using `Python`, `SA
 
 - SQL: query to deliver results on both SAS & AzureML (for descriptive analysis)
 
-- Azure: store datasets, conduct descriptive analysis in SQL queries, examine diagnostics analysis and predictive analysis 
+- AzureML: store datasets, conduct descriptive analysis in SQL queries, examine diagnostics analysis and predictive analysis 
 
 ## Dataset:
 
