@@ -10,7 +10,9 @@ For my project, I have chosen the Toronto case and also been using `Python`, `SA
 
 `The content of this project is published on HackMD and shared with only my future recruiters via a private hyperlink on my resume for job application purpose. This is to not disclose my progress and results in this project to other participants as I will also join in this competition again in 2023 with more insights.`
 
-## Tools:
+## Languages & Tools:
+
+![Screenshot 2022-03-19 153306](https://user-images.githubusercontent.com/70437668/159135753-60b0ef75-eb1c-469a-8273-aad6e0bef746.jpg)
 
 - SAS: explore data & generate main reports in A/B Testing
 
