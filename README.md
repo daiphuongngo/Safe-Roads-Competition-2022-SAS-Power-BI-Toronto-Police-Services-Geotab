@@ -8,7 +8,7 @@ Finals projects must be submitted by 5:00 p.m. ET on Friday, March 4, 2022. Fina
 
 For my project, I have chosen the Toronto case and also been using `Python`, `SAS`, `Power BI`, `Azure` to conduct analysis and visualize dashboards which are inspired by the [Toronto Police Service's Annual Statistical Report Interactive Dashboards](https://data.torontopolice.on.ca/pages/asr-analytics).
 
-`The content of this project is published on HackMD and shared with only my future recruiters via a private hyperlink on my resume for job application purpose. This is to not disclose my progress and results in this project to other participants as I will also join in this competition again in 2023 with more insights.`
+**HackMD Link**: https://hackmd.io/@PhuongDaiNgo/H1uyB_6x9`
 
 ## Languages & Tools:
 
